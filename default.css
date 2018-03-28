@@ -1,5 +1,8 @@
 /* セレクタ {プロパティ名: 値;} */
 /* * {color: skyblue;} */
-h1 {color: skyblue;}
-#first {color: orange;}
-.points {color: violet;}
+
+/* h1, p {color: violet;} */
+/* div span {color: violet;} */
+/* div > span {color: violet;} */
+/* p + p {color: violet;} */
+/* p.points {color: violet;} */
