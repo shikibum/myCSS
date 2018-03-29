@@ -146,3 +146,22 @@ span {
 .gray { background: gray; }
 .silver { background: silver; }
 .orange { background: orange; } */
+
+/* position */
+/* #box1 {
+  background: gray;
+  /* position: relative; */
+  /* position: fixed;
+  top: 10px; */
+/* }
+#box2 {
+  background: silver;
+  /* position: static; */
+  /* position: relative;
+}
+#box3 {
+  background: orange;
+  position: absolute;
+  top: 180px;
+  left: 20px;
+} */ 
