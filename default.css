@@ -24,3 +24,12 @@ input:focus {background: blue;} */
 /* p:first-letter {color: skyblue;} */
 /* p:before {content: "-->";}
 p:after {content: "<--";} */
+
+/* セレクタ詳細度 */
+/* (a)=style */
+/* (b) id */
+/* (c) 属性/擬似クラス */
+/* (d) 要素/疑似要素 */
+/* a {color: skyblue !important;}/* 0001 */
+/* a.link {color: pink;}/* 0011 */
+/* a#site {color: blue;}/* 0101 */ 
