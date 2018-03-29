@@ -18,3 +18,9 @@ a:hover {color: pink;}
 a:active {color: red;}
 
 input:focus {background: blue;} */
+/* 疑似要素 */
+
+/* p:irst-line {color: skyblue;} */
+/* p:first-letter {color: skyblue;} */
+/* p:before {content: "-->";}
+p:after {content: "<--";} */
