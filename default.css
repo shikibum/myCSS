@@ -32,4 +32,11 @@ p:after {content: "<--";} */
 /* (d) 要素/疑似要素 */
 /* a {color: skyblue !important;}/* 0001 */
 /* a.link {color: pink;}/* 0011 */
-/* a#site {color: blue;}/* 0101 */ 
+/* a#site {color: blue;}/* 0101 */
+
+/* body {font-size: 16px;}
+/* h1 {font-size: 2em;}  2倍*/
+/* h2 {font-size: 150%} */
+/* h1 {color: #00f;}
+h1 {color: #0000ff;}
+h1 {color: rgb(0,0,255);} */ 
