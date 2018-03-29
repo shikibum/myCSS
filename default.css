@@ -118,3 +118,15 @@ ul {
 /* body {
   background: url('smile.png') repeat-x fixed;
 } */
+
+/* display */
+h1, p, span, a {
+  border; 1px solid #ddd;
+}
+h1, p {
+  width: 120px;
+  display: inline-block;
+}
+span {
+  display: none;
+}
