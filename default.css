@@ -39,4 +39,12 @@ p:after {content: "<--";} */
 /* h2 {font-size: 150%} */
 /* h1 {color: #00f;}
 h1 {color: #0000ff;}
-h1 {color: rgb(0,0,255);} */ 
+h1 {color: rgb(0,0,255);} */
+
+/* ボックスモデル */
+/* body, html {height: 100%;}
+div {
+  background: blue;
+  width: 50%;
+  height: 50%;
+} */
