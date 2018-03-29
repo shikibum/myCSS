@@ -55,4 +55,9 @@ div {
   border-width: 4px;
   border-style: dotted;
 } */
-div {border-top: orange 4px dotted;}
+/* div {border-top: orange 4px dotted;} */
+
+/* padding */
+body {margin: 0;}
+div {padding: 10px 50px;}
+div {padding: 10px 30px 50px 70px;}
