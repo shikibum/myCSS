@@ -101,3 +101,9 @@ text
 ul {
   list-style: url('smile.png');
 } */
+
+/* cursor */
+.help {cursor: help;}
+.dragme {cursor: move;}
+.linksearch {cursor: pointer;}
+.smile {cursor: url('smile.png'), auto;}
