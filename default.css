@@ -103,7 +103,18 @@ ul {
 } */
 
 /* cursor */
-.help {cursor: help;}
+/* .help {cursor: help;}
 .dragme {cursor: move;}
 .linksearch {cursor: pointer;}
-.smile {cursor: url('smile.png'), auto;}
+.smile {cursor: url('smile.png'), auto;} */
+
+/* background */
+/* body {
+  background-image: url('smile.png');
+  background-repeat: repeat-y;
+  background-position: top center;
+  background-attachment: scroll;
+} */
+/* body {
+  background: url('smile.png') repeat-x fixed;
+} */
