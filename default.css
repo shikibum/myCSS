@@ -6,3 +6,6 @@
 /* div > span {color: violet;} */
 /* p + p {color: violet;} */
 /* p.points {color: violet;} */
+
+/* a[title] {color: skyblue;} */
+a[class~="search"]{color: violet;}
