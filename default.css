@@ -120,7 +120,7 @@ ul {
 } */
 
 /* display */
-h1, p, span, a {
+/* h1, p, span, a {
   border; 1px solid #ddd;
 }
 h1, p {
@@ -129,4 +129,20 @@ h1, p {
 }
 span {
   display: none;
+} */
+
+/* display; table */
+/* .container {
+  display: tabele;
+  width: 300px;
 }
+.box {
+  display: table-cell;
+  width: 100px;
+}
+.row {
+  display: table-row;
+}
+.gray { background: gray; }
+.silver { background: silver; }
+.orange { background: orange; } */
