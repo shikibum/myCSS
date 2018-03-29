@@ -63,7 +63,7 @@ div {padding: 10px 50px;}
 div {padding: 10px 30px 50px 70px;} */
 
 /* mergin */
-body {margin: 0;}
+/* body {margin: 0;}
 div#box1 {
   background: silver;
   margin: 10px 20px 30px;
@@ -71,4 +71,20 @@ div#box1 {
 div#box2 {
   background: orange;
   margin: 20px;
-}
+} */
+
+/* text */
+/*
+text
+- color: orange;
+- font-size: 14px;
+- font-family: Arial, Helvetica;
+- font-weight: bold/normal
+- text-align: right/center/left;
+- text-decoration: underline/line-through/none
+*/
+/* h1 {
+  font-family: Arial;
+  text-align: center;
+  text-decoration: underline;
+} */
