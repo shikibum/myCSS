@@ -202,3 +202,12 @@ position: absolute;
   line-height: 1.5;
   vertical-align: top;
 } */
+
+/* float clear */
+img {
+  float: right;
+  width: 100px;
+}
+.gray {
+  clear: right;
+}
