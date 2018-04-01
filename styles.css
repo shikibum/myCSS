@@ -3,6 +3,13 @@ body {
   background: grey;
 }
 
+#eyecatch {
+  background: url('eyecatch.jpg') no-repeat;
+  background-size: cover;
+  background-position: 50% 20%;
+  height: 100px;
+}
+
 .container {
 width: 500px;
 margin: 0 auto;
