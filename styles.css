@@ -1,1 +1,22 @@
-/*  */
+body {
+  margin: 0;
+  background: grey;
+}
+
+.container {
+width: 500px;
+margin: 0 auto;
+/* background: pink; */
+}
+
+header {
+  background: tomato;
+}
+
+main {
+  background: skyblue;
+}
+
+footer {
+  /* background: grey; */
+}
