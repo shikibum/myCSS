@@ -35,19 +35,28 @@ float: left;
 width: 300px;
 } */
 
-#left, #right {
+#left, #center ,#right {
   padding: 10px;
   box-sizing: border-box;
 }
+
 #left {
   background: lightgreen;
   float: left;
-  width: 180px;
+  width: 100px;
+  margin-right: 10px;
 }
+
+#center {
+  background: green;
+  float: left;
+  width: 280px;
+}
+
 #right {
   background: limegreen;
   float: right;
-  width: 300px;
+  width: 100px;
 }
 
 .clearfix::after {
