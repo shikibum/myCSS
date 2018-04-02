@@ -3,12 +3,12 @@ body {
   background: grey;
 }
 
-#eyecatch {
+/* #eyecatch {
   background: url('eyecatch.jpg') no-repeat;
   background-size: cover;
   background-position: 50% 20%;
   height: 100px;
-}
+} */
 
 .container {
 width: 500px;
@@ -23,7 +23,18 @@ header {
 main {
   background: skyblue;
 }
+#left {
+  background: lightgreen;
+  float: left;
+  width: 200px
+}
+#right {
+  background: limegreen;
+  float: right;
+  width: 300px
+}
 
 footer {
-  /* background: grey; */
+  background: grey;
+  clear: both;
 }
