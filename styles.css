@@ -4,16 +4,16 @@ body {
 }
 
 /* #eyecatch {
-  background: url('eyecatch.jpg') no-repeat;
-  background-size: cover;
-  background-position: 50% 20%;
-  height: 100px;
+background: url('eyecatch.jpg') no-repeat;
+background-size: cover;
+background-position: 50% 20%;
+height: 100px;
 } */
 
 .container {
-width: 500px;
-margin: 0 auto;
-/* background: pink; */
+  width: 500px;
+  margin: 0 auto;
+  /* background: pink; */
 }
 
 header {
@@ -23,15 +23,31 @@ header {
 main {
   background: skyblue;
 }
+/* #left {
+background: lightgreen;
+float: left;
+width: 180px;
+margin-right: 20px;
+}
+#right {
+background: limegreen;
+float: left;
+width: 300px;
+} */
+
+#left, #right {
+  padding: 10px;
+  box-sizing: border-box;
+}
 #left {
   background: lightgreen;
   float: left;
-  width: 200px
+  width: 180px;
 }
 #right {
   background: limegreen;
   float: right;
-  width: 300px
+  width: 300px;
 }
 
 .clearfix::after {
@@ -39,12 +55,12 @@ main {
   display: block;
   clear: both;
 }
-  .clear {
-    overflow: hidden;
-  }
 
+.clear {
+  overflow: hidden;
+}
 
 footer {
-  background: grey;
   clear: both;
+  background: grey;
 }
