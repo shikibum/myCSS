@@ -20,6 +20,25 @@ header {
   background: tomato;
 }
 
+ul#menu {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  font-size: 0px;
+}
+
+ul#menu > li {
+  display: inline-block;
+}
+
+ul#menu > li > a {
+  display: inline-block;
+  width: 80px;
+  height: 40px;
+  background: orange;
+  font-size: 16px;
+}
+
 main {
   background: skyblue;
 }
@@ -48,7 +67,7 @@ width: 300px;
 
 #right {
   background: limegreen;
-  margin-left: 100px: 
+  margin-left: 100px:
 }
 
 /* #center {
