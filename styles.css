@@ -49,7 +49,24 @@ ul#menu > li > a:hover {
 
 main {
   background: skyblue;
+  padding: 15px 0;
 }
+
+main .product {
+  position: relative;
+  display: inline-block;
+}
+
+main .price {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  font-size: 10px;
+  padding: 4px;
+  font-weight: bold;
+  background: white;
+}
+
 /* #left {
 background: lightgreen;
 float: left;
@@ -66,7 +83,7 @@ width: 300px;
   padding: 10px;
   box-sizing: border-box;
 } */
-
+/*
 #left {
   background: lightgreen;
   float: left;
@@ -80,10 +97,10 @@ width: 300px;
 
 /* #center {
   background: green;
-  margin: 0 100px;
-} */
+  margin: 0 100px; */
+/* }
 
-.clearfix::after {
+/* .clearfix::after {
   content: '';
   display: block;
   clear: both;
@@ -91,7 +108,8 @@ width: 300px;
 
 .clear {
   overflow: hidden;
-}
+} */
+
 
 footer {
   clear: both;
