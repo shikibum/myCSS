@@ -37,6 +37,14 @@ ul#menu > li > a {
   height: 40px;
   background: orange;
   font-size: 16px;
+  text-decoration: none;
+  text-align: center;
+  line-height: 40px;
+}
+
+ul#menu > li > a:hover {
+  opacity: 0.5;
+  transition: 0.8s;
 }
 
 main {
