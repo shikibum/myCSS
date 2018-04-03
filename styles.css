@@ -52,6 +52,19 @@ main {
   padding: 15px 0;
 }
 
+ul#lessons {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+ul#lessons h2 . ul#lessons p {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-size: 16px;
+}
+
 main .product {
   position: relative;
   display: inline-block;
