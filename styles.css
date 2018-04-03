@@ -35,29 +35,26 @@ float: left;
 width: 300px;
 } */
 
-#left, #center ,#right {
+/* #left, #center ,#right {
   padding: 10px;
   box-sizing: border-box;
-}
+} */
 
 #left {
   background: lightgreen;
   float: left;
   width: 100px;
-  margin-right: 10px;
-}
-
-#center {
-  background: green;
-  float: left;
-  width: 280px;
 }
 
 #right {
   background: limegreen;
-  float: right;
-  width: 100px;
+  margin-left: 100px: 
 }
+
+/* #center {
+  background: green;
+  margin: 0 100px;
+} */
 
 .clearfix::after {
   content: '';
